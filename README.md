@@ -1,9 +1,3 @@
-<!-- ─────────────────────────── HEADER ─────────────────────────── -->
-<div align="center">
-  <!-- 물결 헤더 이미지 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87e7ee,100:a6bdf0&height=200&section=header&text=Yun%20Changhyeok&fontSize=42&fontColor=FFFFFF" alt="header" />
-
-
 <!-- ────────────────────────── INTRO ──────────────────────────── -->
 <h3 align="center">
   🌱 꾸준히 성장하며 <strong>취업을 목표</strong>로 달려가는 개발자입니다!
@@ -35,7 +29,7 @@
 </p>
 
 <!-- ────────────────────────── STATS ──────────────────────────── -->
-<h2>🏅 Stats</h2>
+<h2> Stats</h2>
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YUNCHANGHYEOK&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUNCHANGHYEOK&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
@@ -46,9 +40,3 @@
   <img height="165" src="https://streak-stats.demolab.com?user=YUNCHANGHYEOK&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-
-
-<!-- ─────────────────────────── FOOTER ────────────────────────── -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a6bdf0,100:87e7ee&height=140&section=footer" alt="footer"/>
-</div>
