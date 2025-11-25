@@ -74,7 +74,8 @@
 
 <div align="center">
 
-![snake gif](https://github.com/YUNCHANGHYEOK/YUNCHANGHYEOK/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/YUNCHANGHYEOK/YUNCHANGHYEOK/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
